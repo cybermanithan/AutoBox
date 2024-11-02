@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "344472693978",
+    "firebase_url": "https://autobox-fc474-default-rtdb.firebaseio.com",
+    "project_id": "autobox-fc474",
+    "storage_bucket": "autobox-fc474.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344472693978:android:7754f4a057ee7a68e649e3",
+        "android_client_info": {
+          "package_name": "com.example.autobox_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlg1d47902af9Q7sEN9Frq3_lhU0eSAxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
